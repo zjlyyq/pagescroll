@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    /*overflow: hidden;*/
+}
+
+#page_one {
+    background: #00ffa1;
+}
+
+#page_two {
+    background: #bcf1ae;
+}
+
+#page_three {
+    background: #dab573;
+}
+
+#page_four {
+    background: #c3d86d;
+}
