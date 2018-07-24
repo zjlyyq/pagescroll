@@ -9,6 +9,7 @@ window.onload = function() {
     var iscomplete = true;
     //添加滚动滚动事件
     window.onwheel = function(e) {
+        // alert('滚顶');
         if (iscomplete) {
             iscomplete = false;
             //滚轮向下滑动
